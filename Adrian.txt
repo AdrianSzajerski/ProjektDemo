@@ -1,8 +1,13 @@
 to co mo¿na poprawiæ nale¿y zrobiæ
 zmiana za dnia 16.11.2021
 <<<<<<< HEAD
+<<<<<<< HEAD
 i poprawki do tej zmiany hot fix
 =======
 i poprawki do tej zmiany
 czwarta linijka
 >>>>>>> fix21
+=======
+i poprawki do tej zmiany hot fix
+things change all time
+>>>>>>> Adi
